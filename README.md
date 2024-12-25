@@ -1,5 +1,3 @@
-To run the app make sure to have
-
 # Flair
 
 ## Features
@@ -85,3 +83,5 @@ npm start
   ```
 
 ---
+
+# Flair

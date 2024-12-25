@@ -2,7 +2,9 @@
 
 ## Features
 
-- (need to added)
+- Income-Spending tracking
+- Loan Repayment
+- Asset Building
 
 ---
 
